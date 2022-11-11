@@ -1,0 +1,12 @@
+p{
+    margin: 25px 17px 15px 13px;
+    padding: 20px 15px;
+    
+    border: 18px solid yellow;
+}
+
+h1{
+    border: 18px solid;
+    border-color: green blue orange purple ;
+    
+}
